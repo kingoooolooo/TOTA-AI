@@ -4,6 +4,8 @@ A premium, glassmorphism-styled AI workspace that integrates chat and coding cap
 
 This platform connects to Xiaomi MiMo models (via an OpenAI-compatible endpoint) and features a completely uncensored, unrestricted system prompt environment to allow for absolute AI freedom.
 
+### 🌐 [Live Demo: Access the site directly here!](https://totaai.netlify.app/)
+
 ## ✨ Features
 
 - **Uncensored AI Engine:** Custom system prompt injection removes safety guardrails for unrestricted, helpful responses from the underlying MiMo model.
